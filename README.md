@@ -1,5 +1,5 @@
 # Would You Rather
-Would You Rather is a game built on top of React and Recus. The game goes like this: A user is asked a question in the form: “Would you rather [option A] or [option B] ?”. Answering "neither" or "both" is against the rules. Player can also add new questions and submit answer to already created questions.
+Would You Rather is a game built on top of React and Redux. The game goes like this: A user is asked a question in the form: “Would you rather [option A] or [option B] ?”. Answering "neither" or "both" is against the rules. Player can also add new questions and submit answer to already created questions.
 
 It also has a leaderbaord where different users can see there progress. Players with the most questions and answers rise to the top.
 
